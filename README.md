@@ -14,6 +14,8 @@
   <img height="40" alt="Matheus-Django" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 
   <img height="40" alt="Matheus-Flutter" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+ 
+  <img height="40" alt="Matheus-Docker" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 <br/>
