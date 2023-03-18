@@ -8,10 +8,18 @@
 </div>
  
  ## Skills
-<div style="display: flex; justity-content: center; align-items: center; gap: 0.6em; width: 100%;">
+<div align="center">
   <img height="40" alt="Matheus-React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
+ 
+  <img height="40" alt="Matheus-Javascript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+ 
+  <img height="40" alt="Matheus-Jquery" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+ 
+  <img height="40" alt="Matheus-Typescript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+ 
   <img height="40" alt="Matheus-Django" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+ 
+  <img height="40" alt="Matheus-Python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   <img height="40" alt="Matheus-Flutter" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
  
