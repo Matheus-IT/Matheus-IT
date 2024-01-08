@@ -23,9 +23,4 @@
 
   <img height="40" alt="Matheus-Docker" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
-
-<br/>
- 
-  ![Snake animation](https://github.com/Matheus-IT/Matheus-IT/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
