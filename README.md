@@ -9,6 +9,8 @@
  
  ## Skills
 <div align="center">
+  <img height="40" alt="Matheus-React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+
   <img height="40" alt="Matheus-React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  
   <img height="40" alt="Matheus-Javascript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
