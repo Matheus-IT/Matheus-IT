@@ -11,6 +11,7 @@
 
 - 👨‍💻 I’m a Full Stack Developer;
 - 🚀 Passionate about building efficient and user-centric applications
+- 💻 I develop web and mobile applications, and I specialize on backend.
 - ⚡ Fun fact: I love learning other languages, so far I'm fluent in English and I'm also learning French
 
 ### My Development Stack
