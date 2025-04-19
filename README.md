@@ -33,6 +33,8 @@
   <img height="40" alt="Matheus-Nextjs" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
  
   <img height="40" alt="Matheus-Django" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  
+  <img height="40" alt="Matheus-FastAPI" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-plain.svg">
  
   <img height="40" alt="Matheus-Python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
